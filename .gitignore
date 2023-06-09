@@ -1,6 +1,10 @@
 # OSX
 .DS_STORE
 
+#files
+*.txt
+*.pdf
+
 # Models
 models/
 
